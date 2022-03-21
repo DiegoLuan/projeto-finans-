@@ -1,0 +1,20 @@
+section#home{
+	background: #ffc107;
+	color: white;
+}
+
+a#navegacao{
+	text-indent: -9999px;
+	width: 261px;
+	height: 68px;
+	background-image: url(../img/logo.png);
+}
+
+.caixa{
+	padding: 60px 0;
+	border: 1px solid #e5e5e5;
+}
+
+footer ul a, footer p a{
+	margin: 5px 15px;
+}
